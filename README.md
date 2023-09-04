@@ -20,4 +20,6 @@ As seguintes tecnologias foram usadas na construção do projeto:<br>
 🎨 [CSS3](https://www.css3.com)<br>
 🔌 [Javascript](https://www.javascript.com)
 
-
+### 🖼️ Layouts:
+[PC/Tablet](https://github-production-user-asset-6210df.s3.amazonaws.com/126638175/265548499-0bd7a118-310f-4790-a08b-fa8fca74132a.jpg)<br>
+[Mobile](https://github-production-user-asset-6210df.s3.amazonaws.com/126638175/265548540-1329dc7d-5f48-49ee-aad0-93fc8cdbc663.jpg)
